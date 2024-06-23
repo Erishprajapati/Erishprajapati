@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erish Prajapati</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://i.pinimg.com/564x/ac/10/6d/ac106d0c9bb817e54df3409615832313.jpg" alt="erishprajapati" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erishprajapati" alt="erishprajapati" /></a> </p>
 
 - 🌱 I’m currently learning **React**
