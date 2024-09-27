@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erish Prajapati</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **irishmjn@gmail.com**
 
