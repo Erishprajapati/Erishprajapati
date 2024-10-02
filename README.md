@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **irishmjn@gmail.com**
 
-- ⚡ Fun fact **Sometimes more Code Sometimes less Code**
+- ⚡ Boring perspectives
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erishprajapati&show_icons=true&locale=en" alt="erishprajapati" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erishprajapati&" alt="erishprajapati" /></p>
+
