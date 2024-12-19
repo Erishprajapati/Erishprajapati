@@ -12,7 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/erish-prajapati-a744ba259/" target="_blank">
-<!--   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Erish Prajapati LinkedIn" height="30" width="40" /> -->
+  <img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
+" alt="Erish Prajapati LinkedIn" height="30" width="40" />
+<!--   https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg -->
+
 </a>
 <a href="https://github.com/Erishprajapati" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="Erish Prajapati GitHub" height="30" width="40" />
