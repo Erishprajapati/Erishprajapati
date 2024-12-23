@@ -1,5 +1,5 @@
-# 💫 About Me:
-Currently Working on Python Projects<br>I am open to collaboration on Python projects.<br>I am currently learning Python and excited to explore new opportunities and expand my skills.
+💼 About Me:
+I am currently working on Python-based projects, with a keen interest in collaborating on innovative and impactful initiatives. I am actively enhancing my Python skills and looking forward to exploring new opportunities that allow me to grow professionally and contribute meaningfully to the field.
 
 
 ## 🌐 Socials:
