@@ -9,7 +9,7 @@
 - 🔥 Exploring **Python** and mastering **Django** for backend development.  
 - 💡 Driven by a strong desire to solve complex problems and bring ideas to life.  
 - 🌱 Currently learning **Django** and diving deeper into **backend development**.  
-- 🎯 Goal: To become a **top software developer** and contribute to big tech innovations.  
+ 
 
 ---
 
