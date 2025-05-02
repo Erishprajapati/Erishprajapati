@@ -2,7 +2,7 @@
 <h3 align="center">Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=5C5C5C&center=true&width=450&lines=Clean+Backend+Code;+Efficient+Database+Design;+Problem+Solver+at+Heart" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=5C5C5C&center=true&width=450&lines=Clean+Backend+Code;+Efficient+Database+Design" alt="Typing SVG" />
 </p>
 
 ---
