@@ -21,5 +21,5 @@
 ```bash
 Languages:     Python | JavaScript | PHP | C  
 Frameworks:    Django   
-Databases:     MySQL | SQLite  
+Databases:     MySQL | SQLite  | PostgreSQL | **Neon** (Cloud-native, serverless PostgreSQL)
 Dev Tools:     Git | VS Code | Apache  
