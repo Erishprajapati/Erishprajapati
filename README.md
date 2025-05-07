@@ -2,46 +2,60 @@
 <h3 align="center">Backend Developer | Python & Django Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=5C5C5C&center=true&width=450&lines=Clean+Backend+Code;+Efficient+Database+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=5C5C5C&center=true&width=480&lines=Clean+Backend+Code+%7C+Efficient+Database+Design" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Focused on backend development using **Python** and **Django**  
-- 🧠 Learning scalable architectures, RESTful APIs, and deployment  
-- ⚙️ Writing clean, maintainable, and testable code  
-- 🤝 Open to meaningful collaborations and backend roles  
+- 🔭 Backend-focused developer specializing in **Python** and **Django**
+- 🧠 Learning scalable architectures, RESTful APIs & deployment
+- ⚙️ Writing clean, modular, and testable backend code
+- 🤝 Eager to collaborate on meaningful backend projects
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+  <strong>Languages</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" title="C"/>
+</p>
 
-  <br/><br/>
+<p align="center">
+  <strong>Framework</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" title="Django"/>
+</p>
 
-  <!-- Framework -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django"/>
+<p align="center">
+  <strong>Databases</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" title="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" title="SQLite"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Neon-Cloud_PostgreSQL-blueviolet?logo=postgresql&logoColor=white&style=flat-square" height="28" alt="Neon" title="Neon - Serverless PostgreSQL"/>
+</p>
 
-  <br/><br/>
+<p align="center">
+  <strong>Dev Tools</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" title="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" title="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" title="Apache"/>
+</p>
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Neon-Cloud_PG-blueviolet?logo=postgresql&logoColor=white&style=for-the-badge" alt="Neon"/>
+---
 
-  <br/><br/>
-
-  <!-- Dev Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer"/>
 </p>
