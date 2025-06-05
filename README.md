@@ -2,8 +2,9 @@
 <h3 align="center">Backend Developer | Python & Django Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=5C5C5C&center=true&width=480&lines=Clean+Backend+Code+%7C+Efficient+Database+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=4CAF50&center=true&width=600&lines=Code+is+poetry+when+it+solves+real+problems;Design+systems+that+scale%2C+not+just+run;Clean+code+isn't+a+luxury%2C+it's+a+discipline" alt="Typing SVG" />
 </p>
+
 
 ---
 
