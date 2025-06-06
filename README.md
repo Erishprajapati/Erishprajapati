@@ -13,9 +13,8 @@
 - 🔧 Backend Developer skilled in **Python, Django, FastAPI**
 - 🚀 Passionate about **fast, secure, and scalable backend systems**
 - 🧠 Obsessed with **system design**, **clean architecture**, and **performance optimization**
-- 🌱 Currently diving deep into **Docker**, **CI/CD pipelines**, and **cloud deployments**
-- 💬 I love discussing **real-world tech**, **software design patterns**, and **backend scaling**
-- 🌍 Ambition: **From Nepal 🇳🇵 → To NYC’s Backend Engineering Elite 🗽**
+- 🌱 Currently diving deep into API's**
+- 💬 discussing **real-world tech**, **software design patterns**, and **backend scaling**
 
 ---
 
