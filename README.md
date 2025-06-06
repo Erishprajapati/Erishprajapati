@@ -1,21 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=800&color=00FFD1&center=true&width=700&lines=Erish+Prajapati;Backend+Developer+%7C+Python+%7C+Django+%7C+FastAPI;Clean+Code+%7C+System+Design+%7C+Cloud+Ready" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=FF6EC7&center=true&width=800&lines=Erish+Prajapati;Backend+Developer+from+Nepal;Python+%7C+Django+%7C+FastAPI;Clean+Code+Lover+%7C+System+Design+Thinker;Scaling+APIs+%7C+Security+First+%7C+Cloud+Ready" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2C3E50&height=200&section=header&text=Crafting%20Backends%20That%20Scale%20🌍&fontSize=30&fontColor=FFFFFF&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Crafting%20Backends%20That%20Scale%20🚀&fontSize=32&fontColor=FFFFFF&fontAlignY=40" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 Backend Developer with strong skills in **Python, Django, and FastAPI**
-- 🚀 Passionate about building **fast, secure, and scalable APIs**
-- 🛠️ Focused on **system design**, **RESTful APIs**, and **clean architecture**
-- 🌱 Currently learning **Docker**, **CI/CD**, **PostgreSQL**, and **cloud deployment**
-- 💬 Loves to discuss **tech, architecture**, and **best practices**
-- 🌍 Dreaming big: **from Nepal → NYC backend elite**
+- 🔧 Backend Developer skilled in **Python, Django, FastAPI**
+- 🚀 Passionate about **fast, secure, and scalable backend systems**
+- 🧠 Obsessed with **system design**, **clean architecture**, and **performance optimization**
+- 🌱 Currently diving deep into **Docker**, **CI/CD pipelines**, and **cloud deployments**
+- 💬 I love discussing **real-world tech**, **software design patterns**, and **backend scaling**
+- 🌍 Ambition: **From Nepal 🇳🇵 → To NYC’s Backend Engineering Elite 🗽**
 
 ---
 
@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,php,c" height="50" />
 </p>
 
-### ⚙️ Frameworks  
+### ⚙️ Frameworks & APIs  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,fastapi" height="50" />
 </p>
@@ -38,9 +38,9 @@
   <img src="https://img.shields.io/badge/Neon-Cloud_PostgreSQL-blueviolet?logo=postgresql&logoColor=white&style=flat-square" height="28" />
 </p>
 
-### 🛠️ Dev Tools  
+### 🧰 Dev Tools & Cloud  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,apache,docker,linux" height="50" />
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,apache" height="50" />
 </p>
 
 ---
