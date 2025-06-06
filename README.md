@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2C3E50&height=180&section=header&text=Welcome%20to%20this%20Continent%20&fontSize=30&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2C3E50&height=180&section=header&text=Welcome%20to%20this%20Continent🧑🏻‍💻%20&fontSize=30&fontColor=#00BFFF" />
 </p>
 
 ---
