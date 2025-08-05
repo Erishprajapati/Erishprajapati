@@ -1,56 +1,41 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=900&color=%2300BFFF&center=true&width=800&lines=Erish+Prajapati;Backend+Developer+from+Nepal;Python+%7C+Django+%7C+FastAPI;Clean+Code+%7C+System+Design+Thinker;Scaling+APIs+%7C+Security+First+%7C+Cloud+Ready" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Crafting%20Backends%20That%20Scale%20🚀&fontSize=32&fontColor=FFFFFF&fontAlignY=40" />
-</p>
+<h1 align="center">Erish Prajapati</h1>
+<h3 align="center">Backend Developer | Python • Django • FastAPI | From Nepal 🇳🇵</h3>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔧 Backend Developer skilled in **Python, Django, FastAPI**
-- 🚀 Passionate about **fast, secure, and scalable backend systems**
-- 🧠 Obsessed with **system design**, **clean architecture**, and **performance optimization**
-- 🌱 Currently diving deep into API's**
-- 💬 discussing **real-world tech**, **software design patterns**, and **backend scaling**
-
----
-
-## 🚀 Tech Stack
-
-### 🧠 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c" height="50" />
-</p>
-
-### ⚙️ Frameworks & APIs  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi" height="50" />
-</p>
-
-### 🛢️ Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="50" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Neon-Cloud_PostgreSQL-blueviolet?logo=postgresql&logoColor=white&style=flat-square" height="28" />
-</p>
-
-### 🧰 Dev Tools & Cloud  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode,linux,apache" height="50" />
-</p>
+- 🧰 Backend Developer with focus on **scalability, security, and clean architecture**
+- 💬 I love solving **real-world problems** through elegant APIs
+- 🧠 Fan of **system design**, **DevOps fundamentals**, and **code readability**
+- 🌱 Currently learning more about **cloud-native backends** and **API scaling**
+- 🛠️ Always experimenting with **FastAPI**, **Django REST**, and **Neon/PostgreSQL**
 
 ---
 
-## 🌟 What I Do
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` • `JavaScript` • `C` • `PHP`
+
+**Frameworks & APIs:**  
+`Django` • `FastAPI` • `REST APIs`  
+
+**Databases:**  
+`MySQL` • `PostgreSQL` • `SQLite` • `Neon (Cloud PostgreSQL)`
+
+**Tools & DevOps:**  
+`Docker` • `Git` • `VS Code` • `Linux` • `Apache`
+
+---
+
+### ⚙️ What I Value in Code
 
 ```python
 def build_backend(problem):
     if problem.is_real():
-        return clean_solution(
-            using=["Python", "Django", "FastAPI"],
-            principles=["Scalability", "Security", "Modularity"]
+        return solve_using(
+            tools=["Python", "Django", "FastAPI"],
+            principles=["Clean Code", "Security First", "Scalability"]
         )
     return refactor(legacy_code)
